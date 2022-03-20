@@ -8,7 +8,7 @@ public class Main {
 
     //complete assignment 1
     public static int  hw1(int num) {
-        //
+        // test editing
         return 0;
     }
 }
